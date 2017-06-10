@@ -600,6 +600,10 @@ python-qt5-bindings-gl:
   osx:
     homebrew:
       packages: [pyqt5, sip]
+python-qt5-bindings-webkit:
+  osx:
+    homebrew:
+      packages: [pyqt5, sip]
 python-rospkg:
   osx:
     pip:
